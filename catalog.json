@@ -5,10 +5,10 @@
    "SHA256SUMS"
   ],
   "prerelease": false,
-  "publiee_le": "2026-11-18",
-  "tag": "v1.0.3",
-  "url": "https://github.com/bob-integration/bobistudio/releases/tag/v1.0.3",
-  "version": "1.0.3"
+  "publiee_le": "2026-11-22",
+  "tag": "v1.0.4",
+  "url": "https://github.com/bob-integration/bobistudio/releases/tag/v1.0.4",
+  "version": "1.0.4"
  },
  "entries": [
   {
@@ -220,7 +220,7 @@
    "version_dispo": "0.3.6"
   }
  ],
- "generated_at": "2026-11-22T10:02:24Z",
+ "generated_at": "2026-11-22T11:09:14Z",
  "org": "bob-integration",
  "schema": 1
 }
