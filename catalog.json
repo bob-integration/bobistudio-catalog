@@ -90,6 +90,19 @@
    "version_dispo": "0.29.58"
   },
   {
+   "depot": "bobistudio-plugin-stills",
+   "description": "Bobi.Studio plugin: stills",
+   "genre": "plugin",
+   "indisponible": "",
+   "installable": true,
+   "label": "Images fixes",
+   "manifeste_lu": true,
+   "tag": "v0.19.31",
+   "type": "stills",
+   "url": "https://github.com/bob-integration/bobistudio-plugin-stills",
+   "version_dispo": "0.19.31"
+  },
+  {
    "depot": "bobistudio-plugin-avsync",
    "description": "Bobi.Studio plugin: avsync",
    "genre": "plugin",
@@ -220,7 +233,7 @@
    "version_dispo": "0.3.6"
   }
  ],
- "generated_at": "2026-11-22T11:09:14Z",
+ "generated_at": "2026-11-25T21:13:15Z",
  "org": "bob-integration",
  "schema": 1
 }
