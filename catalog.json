@@ -97,10 +97,10 @@
    "installable": true,
    "label": "Images fixes",
    "manifeste_lu": true,
-   "tag": "v0.19.31",
+   "tag": "v0.19.39",
    "type": "stills",
    "url": "https://github.com/bob-integration/bobistudio-plugin-stills",
-   "version_dispo": "0.19.31"
+   "version_dispo": "0.19.39"
   },
   {
    "depot": "bobistudio-plugin-avsync",
@@ -233,7 +233,7 @@
    "version_dispo": "0.3.6"
   }
  ],
- "generated_at": "2026-11-25T21:13:15Z",
+ "generated_at": "2026-11-28T09:54:41Z",
  "org": "bob-integration",
  "schema": 1
 }
